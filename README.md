@@ -1,2 +1,2 @@
 # opencart-uzbek-tarjima
-Opencart theme O'zbekcha tarjima
+Opencart-uzbek-Theme translation
